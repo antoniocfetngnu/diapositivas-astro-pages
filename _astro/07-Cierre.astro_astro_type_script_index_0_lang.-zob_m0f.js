@@ -1,0 +1,1 @@
+import{i as e,t}from"./anim.BlMcQI5Q.js";t(`gracias`,()=>{e.timeline({defaults:{ease:`power3.out`}}).from(`.gr-bot`,{y:60,autoAlpha:0,duration:.8,ease:`back.out(1.5)`}).from(`.gr-t`,{scale:.6,autoAlpha:0,duration:.7,ease:`back.out(1.8)`},.3).from(`.gr-in`,{y:24,autoAlpha:0,stagger:.15,duration:.6},.7)});

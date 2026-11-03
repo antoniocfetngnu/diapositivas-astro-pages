@@ -1,0 +1,1 @@
+import{i as e,t}from"./anim.BlMcQI5Q.js";t(`metodologia`,()=>{e.from(`.me-node`,{scale:0,autoAlpha:0,stagger:.15,duration:.5,ease:`back.out(1.8)`,delay:.5}),e.to(`.me-ring`,{rotate:360,duration:40,repeat:-1,ease:`none`,transformOrigin:`50% 50%`})});
